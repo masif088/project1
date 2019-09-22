@@ -1,5 +1,6 @@
-# Latihan git 1
+# Latihan git melatih joke kita
 ##asif itu kerenaaa
 #aaaaa
 ##a
-
+#a
+#Pelatihan 1
